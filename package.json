@@ -1,0 +1,20 @@
+{
+  "name": "cocostemplete",
+  "uuid": "e6d6008f-c7d6-4cb0-9ba3-013548c0726b",
+  "version": "3.6.2",
+  "creator": {
+    "version": "3.6.2"
+  },
+  "main": "watcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node watcher.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "curl": "^0.1.4",
+    "watch-fs": "0.0.7"
+  }
+}
